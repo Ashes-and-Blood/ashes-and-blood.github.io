@@ -1,0 +1,18 @@
+{
+  "app": {
+    "pages": {
+      "landing": {
+        "labels": {
+          "wishlistNow": "Wishlist now on",
+          "followOnSocials": "Follow us on"
+        }
+      },
+      "content": {
+        "labels": {
+          "navigation": "Navigation",
+          "toggleMenu": "Toggle navigation menu"
+        }
+      }
+    }
+  }
+}
