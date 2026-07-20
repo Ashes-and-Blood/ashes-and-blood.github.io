@@ -2,15 +2,47 @@
   "app": {
     "pages": {
       "landing": {
+        "nav": {
+          "game": "Game",
+          "studio": "Studio",
+          "follow": "Follow"
+        },
+        "hero": {
+          "kicker": "A Fantasy Strategy RPG · In Development"
+        },
         "labels": {
-          "wishlistNow": "Wishlist now on",
-          "followOnSocials": "Follow us on"
+          "wishlistOn": "Wishlist on",
+          "followUs": "Follow us"
+        },
+        "features": {
+          "breakTheRules": {
+            "title": "Break the rules",
+            "description": "Systems built to be exploited — chase illegal-feeling combos and make them work in your favor."
+          },
+          "fastBattles": {
+            "title": "Fast tactical battles",
+            "description": "No filler turns. Sharp decisions, brutal consequences, and quick to resolve."
+          },
+          "sandboxCampaign": {
+            "title": "4X sandbox campaign",
+            "description": "Explore, expand and exploit a living world — every run unlocks even more chaos to carry forward."
+          }
+        },
+        "studio": {
+          "eyebrow": "The Studio",
+          "title": "Made in Switzerland",
+          "description": "Small Strategy is a small indie studio bringing high-quality, deeply replayable strategy games to fans of all kinds. Ashes & Blood is our first title — with more on the way."
+        },
+        "follow": {
+          "title": "Follow the development",
+          "description": "Wishlist Ashes & Blood on Steam, and follow us on our socials to see development up close."
         }
       },
       "content": {
         "labels": {
           "navigation": "Navigation",
-          "toggleMenu": "Toggle navigation menu"
+          "toggleMenu": "Toggle navigation menu",
+          "backHome": "Back"
         }
       }
     }
