@@ -3,12 +3,13 @@
     "pages": {
       "landing": {
         "nav": {
-          "game": "Game",
+          "game": "More Info",
           "studio": "Studio",
           "follow": "Follow"
         },
         "hero": {
-          "kicker": "A Fantasy Strategy RPG · In Development"
+          "kicker": "A mix between a 4X campaign layer and TRPG battles.",
+          "tagline": "Every battle is brutal, every campaign is different — and the best victories come from builds the game wasn't supposed to allow."
         },
         "labels": {
           "wishlistOn": "Wishlist on",
@@ -31,7 +32,7 @@
         "studio": {
           "eyebrow": "The Studio",
           "title": "Made in Switzerland",
-          "description": "Small Strategy is a small indie studio bringing high-quality, deeply replayable strategy games to fans of all kinds. Ashes & Blood is our first title — with more on the way."
+          "description": "Small Strategy is a small indie studio with the goal to bring high-quality, deeply replayable strategy games to strategy fans looking for a challenging and rewarding experience."
         },
         "follow": {
           "title": "Follow the development",
